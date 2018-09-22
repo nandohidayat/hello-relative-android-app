@@ -1,4 +1,4 @@
-package com.nandohidayat.app.hellotoast;
+package com.nandohidayat.app.hellorelative;
 
 import org.junit.Test;
 
